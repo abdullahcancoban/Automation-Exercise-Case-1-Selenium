@@ -22,7 +22,7 @@ automationexercise.com Case 1
 
 ## 📍 Overview
 
-This test project has been prepared according to the test scenario found in case 1 at automationexercise.com. The test is prepared to test the functions such as login, user registration, user registration deletion
+This test project has been prepared according to the test scenario found in case 1 at automationexercise.com. The test is prepared to test the functions such as login, user registration, user registration deletion and there is also a nice example of picking random elements in dropdown menus.
 ---
 
 ## 🔮 Features
